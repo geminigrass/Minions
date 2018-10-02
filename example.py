@@ -13,6 +13,8 @@ from scipy import misc
 from os import listdir
 from os.path import isfile, join
 
+# import cv2
+
 def main():
 
     # loading astronaut image
@@ -24,6 +26,9 @@ def main():
     destpath = '/Users/des/Desktop/Minions/ss_results/'
     onlyfiles = [f for f in listdir(srcpath) if isfile(join(srcpath, f))]
     for name in onlyfiles:
+        print(name)
+        if name == ".DS_Store":
+            continue
         img = misc.imread(join(srcpath,name))
 
         # perform selective search
@@ -53,7 +58,16 @@ def main():
                 (x, y), w, h, fill=False, edgecolor='red', linewidth=1)
             ax.add_patch(rect)
 
-        plt.show()
+            # cropped = img[y:y + h, x:x + w]
+            # plt.imshow(cropped)
+            # plt.show()
+
+            # break
+        # break
+
+
+
+        # plt.show()
         # fig.savefig(join(destpath,name))
 
 if __name__ == "__main__":
