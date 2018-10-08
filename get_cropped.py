@@ -17,12 +17,18 @@ from os.path import isfile, join
 
 def main():
 
-    srcpath = '/Users/des/Desktop/Minions/street_views/'
-    destpath = '/Users/des/Desktop/Minions/cropped/'
+    # srcpath = '/Users/des/Desktop/Minions/street_views/'
+    srcpath = '/Users/des/Desktop/Minions/test/'
+    # destpath = '/Users/des/Desktop/Minions/cropped/'
+    destpath = '/Users/des/Desktop/Minions/test/cropped'
     onlyfiles = [f for f in listdir(srcpath) if isfile(join(srcpath, f))]
     for name in onlyfiles:
-        if name == ".DS_Store":
+        print(name)
+        # if name == ".DS_Store":
+        #     continue
+        if name != "test_img.jpg":
             continue
+        print("start")
 
         id = 0
         img = misc.imread(join(srcpath,name))
@@ -48,7 +54,7 @@ def main():
 
         # draw rectangles on the original image
         fig, ax = plt.subplots(ncols=1, nrows=1, figsize=(6, 6))
-        ax.imshow(img)
+        # ax.imshow(img)
 
         for x, y, w, h in candidates:
             rect = mpatches.Rectangle(
@@ -59,12 +65,12 @@ def main():
             cropped_name = destpath + name.split(".")[0] + str(id) + "." + name.split(".")[1]
             misc.imsave(cropped_name, cropped)
             id = id + 1
-        break
+        # break
             # plt.imshow(cropped)
             # plt.show()
+        plt.clf()
 
-        # plt.show()
-        # fig.savefig(join(destpath,name))
+
 
 if __name__ == "__main__":
     main()

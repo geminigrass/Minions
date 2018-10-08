@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b33fb847-647a-4670-8713-dfd714bf0d03" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/get_cropped.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_street_view_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_street_view_pic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/1038 E Brokaw Rd #10, San Jose, CA 95131.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/1038 E Brokaw Rd #10, San Jose, CA 95131.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/1712 Berryessa Rd, San Jose, CA 95133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/1750 Lundy Ave, San Jose, CA 95101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/1750 Lundy Ave, San Jose, CA 95101.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/1772 Educational Park Dr, San Jose, CA 95133.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/1772 Educational Park Dr, San Jose, CA 95133.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/189 The Grove Dr f20, Los Angeles, CA 90036.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/189 The Grove Dr f20, Los Angeles, CA 90036.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/2514 Berryessa Rd, San Jose, CA 95132.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/2514 Berryessa Rd, San Jose, CA 95132.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/2530 Berryessa Rd, San Jose, CA 95132.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/2530 Berryessa Rd, San Jose, CA 95132.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/2799 S White Rd, San Jose, CA 95148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/2855 Stevens Creek Blvd, Santa Clara, CA 95050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/3055 McKee Rd, San Jose, CA 95127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/325 W Adams Blvd, Los Angeles, CA 90007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/325 W Adams Blvd, Los Angeles, CA 90007.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/361 N Capitol Ave, San Jose, CA 95133.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/361 N Capitol Ave, San Jose, CA 95133.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/4200 Fifth Ave, Pittsburgh, PA 15260.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/4200 Fifth Ave, Pittsburgh, PA 15260.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/450 N Capitol Ave, San Jose, CA 95133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/5000 Forbes Ave, Pittsburgh, PA 15213.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/5000 Forbes Ave, Pittsburgh, PA 15213.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/635 Coleman Ave, San Jose, CA 95110.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/635 Coleman Ave, San Jose, CA 95110.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss_results/750 W 7th St, Los Angeles, CA 90017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ss_results/750 W 7th St, Los Angeles, CA 90017.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/street_views/1712 Berryessa Rd, San Jose, CA 95133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/street_views/2799 S White Rd, San Jose, CA 95148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/street_views/2855 Stevens Creek Blvd, Santa Clara, CA 95050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/street_views/3055 McKee Rd, San Jose, CA 95127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/street_views/450 N Capitol Ave, San Jose, CA 95133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/week2_report.pages" beforeDir="false" afterPath="$PROJECT_DIR$/week2/week2_report.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_cropped.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_cropped.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +25,7 @@
       <file leaf-file-name="example.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="252">
               <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
               <folding>
                 <element signature="e#24#84#0" expanded="true" />
@@ -58,11 +34,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_cropped.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="get_cropped.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_cropped.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+            <state relative-caret-position="585">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="e#24#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classfier.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classfier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="e#1#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,7 +70,9 @@
       <file leaf-file-name="selectivesearch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selectivesearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4240" />
+            <state relative-caret-position="-639">
+              <caret line="252" column="41" selection-start-line="252" selection-start-column="41" selection-end-line="252" selection-end-column="41" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -93,6 +86,15 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>plt</find>
+      <find>path</find>
+      <find>train_folder</find>
+      <find>raw_img</find>
+      <find>test_img</find>
+      <find>pca</find>
+      <find>name1</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -110,6 +112,7 @@
         <option value="$PROJECT_DIR$/get_street_view_pic.py" />
         <option value="$PROJECT_DIR$/example.py" />
         <option value="$PROJECT_DIR$/get_cropped.py" />
+        <option value="$PROJECT_DIR$/classfier.py" />
       </list>
     </option>
   </component>
@@ -170,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get_cropped">
+  <component name="RunManager" selected="Python.classfier">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,6 +188,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="classfier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classfier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,25 +245,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selectivesearch/example/example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="filename" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selectivesearch/example" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selectivesearch/example/filename.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -454,17 +457,17 @@
     <list>
       <item itemvalue="Python.get_street_view_pic" />
       <item itemvalue="Python.example" />
-      <item itemvalue="Python.filename" />
       <item itemvalue="Python.example (1)" />
       <item itemvalue="Python.get_cropped" />
+      <item itemvalue="Python.classfier" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.classfier" />
         <item itemvalue="Python.get_cropped" />
         <item itemvalue="Python.example (1)" />
         <item itemvalue="Python.get_street_view_pic" />
         <item itemvalue="Python.example" />
-        <item itemvalue="Python.filename" />
       </list>
     </recent_temporary>
   </component>
@@ -565,9 +568,31 @@
     <entry file="file://$PROJECT_DIR$/selective_search.py" />
     <entry file="file://$PROJECT_DIR$/selectivesearch/example/filename.py" />
     <entry file="file://$PROJECT_DIR$/selectivesearch/example/example.py" />
+    <entry file="file://$PROJECT_DIR$/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="e#24#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/selectivesearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4240" />
+        <state relative-caret-position="-639">
+          <caret line="252" column="41" selection-start-line="252" selection-start-column="41" selection-end-line="252" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_cropped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="e#24#84#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/get_street_view_pic.py">
@@ -577,20 +602,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example.py">
+    <entry file="file://$PROJECT_DIR$/classfier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        <state relative-caret-position="308">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
           <folding>
-            <element signature="e#24#84#0" expanded="true" />
+            <element signature="e#1#19#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_cropped.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
         </state>
       </provider>
     </entry>
